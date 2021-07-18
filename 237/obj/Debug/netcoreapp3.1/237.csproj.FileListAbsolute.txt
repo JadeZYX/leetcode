@@ -1,0 +1,13 @@
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.csproj.CoreCompileInputs.cache
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.AssemblyInfoInputs.cache
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.AssemblyInfo.cs
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.exe
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.deps.json
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.runtimeconfig.json
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.runtimeconfig.dev.json
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.dll
+C:\Users\yxzha\source\repos\leetcode\237\bin\Debug\netcoreapp3.1\237.pdb
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.dll
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.pdb
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.genruntimeconfig.cache
+C:\Users\yxzha\source\repos\leetcode\237\obj\Debug\netcoreapp3.1\237.csprojAssemblyReference.cache

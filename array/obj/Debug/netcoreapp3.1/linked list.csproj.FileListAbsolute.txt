@@ -1,0 +1,13 @@
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.exe
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.deps.json
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.runtimeconfig.json
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.runtimeconfig.dev.json
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.dll
+C:\Users\yxzha\source\repos\leetcode\array\bin\Debug\netcoreapp3.1\linked list.pdb
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.csprojAssemblyReference.cache
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.csproj.CoreCompileInputs.cache
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.AssemblyInfoInputs.cache
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.AssemblyInfo.cs
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.dll
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.pdb
+C:\Users\yxzha\source\repos\leetcode\array\obj\Debug\netcoreapp3.1\linked list.genruntimeconfig.cache

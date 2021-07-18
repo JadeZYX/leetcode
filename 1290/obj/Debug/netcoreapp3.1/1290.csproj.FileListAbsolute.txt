@@ -1,0 +1,13 @@
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.csprojAssemblyReference.cache
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.csproj.CoreCompileInputs.cache
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.AssemblyInfoInputs.cache
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.AssemblyInfo.cs
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.exe
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.deps.json
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.runtimeconfig.json
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.runtimeconfig.dev.json
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.dll
+C:\Users\yxzha\source\repos\leetcode\1290\bin\Debug\netcoreapp3.1\1290.pdb
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.dll
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.pdb
+C:\Users\yxzha\source\repos\leetcode\1290\obj\Debug\netcoreapp3.1\1290.genruntimeconfig.cache

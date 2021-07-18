@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "basics": {
+      "commandName": "Project",
+      "commandLineArgs": "jade byron"
+    }
+  }
+}
